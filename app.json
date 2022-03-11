@@ -138,7 +138,7 @@
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
-      "value": ""
+      "value": "-1001588521316"
     }, 
     "LEGEND_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
