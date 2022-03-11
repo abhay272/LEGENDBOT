@@ -20,43 +20,43 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "𓆩𝘿𝘼𝙆𝙐〆𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "Lêɠêɳ̃dẞø† is Online",
+      "value": "𓆩𝘿𝘼𝙆𝙐〆𝙀𝙉𝙂𝙄𝙉𝙀𝙀𝙍𓆪 † is Online",
       "required": false
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
-      "required": false
+      "value": "@true",
+      "required": true
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
-      "required": false
+      "value": "@NITPAID",
+      "required": true
     },
     "BOY_OR_GIRL": {
       "description": "Set Boy Or Girl",
@@ -65,43 +65,43 @@
     },
     "AWAKE_PIC": {
       "description": "Put here any telegraph media link for awake pic in .awake Or .bot command.",
-      "value": "",
-      "required": false
+      "value": "https://t.me/NITPAID/3899",
+      "required": true
     },
     "OP_PIC": {
       "description": "Put here any telegraph media link for OP pic in .op command.",
-      "value": "",
-      "required": false
+      "value": "https://t.me/NITPAID/3899",
+      "required": true
     },
     "PING_PIC": {
       "description": "Put here any telegraph media link for PING pic in .ping command.",
-      "value": "",
-      "required": false
+      "value": "https://t.me/NITPAID/3899",
+      "required": true
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive.",
-      "value": "",
-      "required": false
+      "value": "https://t.me/NITPAID/3899",
+      "required": true
     },
     "ALIVE_EMOJI": {
       "description": "Put here any emoji. Which Will be Show When U Do .alive.",
-      "value": "",
-      "required": false
+      "value": "💸",
+      "required": true
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "𝙸 𝚊𝚖 𝙻𝚎𝚐𝚎𝚗𝚍.",
+      "value": "𝙸 𝚊𝚖 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛.....",
       "required": true
     },
     "PM_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "",
-      "required": false
+      "value": "https://t.me/NITPAID/3899",
+      "required": true
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
-      "required": false
+      "value": "HELLO BRO PLZ DON'T SPAM WRNA APKI GAND MARDUNGA",
+      "required": true
     },
     "MAX_FLOOD_IN_PM": {
       "description": "Now U Can Set Custom Flood In DM / PM by default it is 5",
@@ -110,17 +110,17 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @missrose_bot and paste here. Value should start with -100",
-      "value": "",
+      "value": "-1001588521316",
       "required": true
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Putting Others Value may result In Account Ban.",
-      "value": ""
+      "value": "3872077"
     },
     "SUDO_USERS": {
       "description": "Enter your friends user id to to give him bot full access",
-      "value": "",
-      "required": false
+      "value": "5098147320",
+      "required": true
     },
     "SUDO_COMMAND_HAND_LER": {
       "description": "Please enter sudo user command handler",
@@ -134,7 +134,7 @@
       },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
-      "value": ""
+      "value": "a965b517323dd3986f3675ae7adf4ac5"
     },
     "PLUGIN_CHANNEL": {
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
@@ -146,7 +146,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "",
+      "value": "5c266e0b-4af7-4f39-a5d6-1534743312a7",
       "required": true
     },
     "HEROKU_APP_NAME": {
@@ -156,11 +156,11 @@
     },
     "BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
-      "value": ""
+      "value": "5160110498:AAE-ZKbGlEfiFI525OAK2rRByBlWmuH_R_Q"
     },
     "BOT_USERNAME": {
       "description": "Needed for inline buttons maker. Make a bot at @BotFather and copy the username of your bot.",
-      "value": ""
+      "value": "@DakuEng_bot"
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
@@ -169,7 +169,7 @@
     },
     "NO_OF_COLUMNS": {
       "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
-      "value": "2",
+      "value": "3",
       "required": true
     },
     "EMOJI_IN_HELP1": {
